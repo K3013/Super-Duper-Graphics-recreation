@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Super Duper Graphics !",
+    "description": "A restored version of SDG provided by K3013, CubeIR, QuirkyPlague and RealSource",
+    "uuid": "11bb1d15-ff21-4231-b82b-241e84b3b407",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      90
+    ]
+  },
+  "modules": [
+    {
+      "description": "An untagged dev team's project",
+      "type": "resources",
+      "uuid": "b7e9d7d0-06ac-487d-82fa-4a5f217f7a21",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ],
+  "metadata": {
+    "generated_with": {
+      "mctoolsweb": [
+        "0.11.1"
+      ]
+    }
+  }
+}
